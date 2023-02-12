@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 STANZAS=(
 "Gáttir allar                    Before one would advance
 áðr gangi fram                  through each doorway,
