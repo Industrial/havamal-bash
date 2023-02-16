@@ -1,2 +1,2 @@
 #!/usr/bin/env zsh
-./Hávamál.bash
+bash Hávamál.bash
