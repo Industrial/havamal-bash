@@ -1,2 +1,5 @@
 #!/usr/bin/env fish
-cat (random choice stanzas/*)
+
+set DIR (dirname (status --current-filename))
+
+cat (random choice $DIR/../stanzas/*)
